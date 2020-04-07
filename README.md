@@ -6,7 +6,7 @@ Simple Restfull API to manipulate an Array of "repositories" in memory using the
 
 Open the root folder in Visual Studio Code and run the following code in terminal
 
-```
+```terminal
 yarn
 ```
 
